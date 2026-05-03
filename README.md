@@ -1,5 +1,5 @@
 # Self-directed-Learning-Portfolio
-以 Python 實作金融數據分析，親手撰寫 MA、RSI 與布林通道底層算式，並整合 yfinance 與 Matplotlib 建立自動化股價視覺化系統。
+以 Python 實作金融數據分析，親手撰寫 MA、RSI 與布林通道底層算式，並整合 yfinance 與 Matplotlib 建立自動化股價視覺化系統。若要檢視詳細的程式碼，請查看目錄中的main.py檔案。
 # 股價的數據語言：以 Python 實作技術指標
 **學校：** 國立陽明交大附中竹北高級中學  
 **學生：** 21503 李致毅
